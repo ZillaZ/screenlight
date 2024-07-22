@@ -1,5 +1,5 @@
 # Screenlight
-Brightness control for Arch devices
+Brightness control for Linux devices
 
 ## Usage
 Invoke the program as root with at least 2 arguments.
